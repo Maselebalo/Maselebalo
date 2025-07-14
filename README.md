@@ -37,10 +37,10 @@ Transaction Performance
   - Transaction Month-to-Month,
   -  Weekday Transaction Count,
 
+
  Tools Used:
- 
- SQL Platform:
-  - Snowflake for Data Visualization
+
+  - SQL Platform: Snowflake for Data Visualization
   - Microsoft Excel for Pivoting, Charts, and Visualization
   - Miro for ETL Planning
   - Canva for Presentation

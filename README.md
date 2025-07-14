@@ -1,7 +1,9 @@
 Project Overview
+
 Brightlight Coffee Shop Sales recently appointed a new CEO whose mission is to grow the company's revenue and improve product performance.
 
 Objective
+
 Using analytics, SQL, and data visualization skills to help Bright Coffee Shop with:
 - Which products generate the most revenue?
 - What time of day does the store perform best?
@@ -9,6 +11,7 @@ Using analytics, SQL, and data visualization skills to help Bright Coffee Shop w
 - Recommendations for improving sales performance.
 
 Introduction
+
 The repository consists of a detailed sales analysis for Bright Coffee Shop. The study covers three locations over 6 months, January - June, in the year 2023. 
 The goal is to know: 
 - Total revenue per product type,
